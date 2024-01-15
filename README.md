@@ -16,11 +16,11 @@ A Collection of My Projects To Do With Uk Fuel Prices.
  - Motor Fuel Group
 
 # How To Run Fuel DB Creator.
-  Download Release File
-  Install Dependeces:
-    sqlite3
-    requsts
-  Run main.py
+    Download Release File
+    Install Dependeces:
+      sqlite3
+      requsts
+    Run main.py
 
 # Notes
   # Whats E10, E5 and B7?
